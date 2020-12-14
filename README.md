@@ -1,4 +1,4 @@
-# Unity-ARFoundation-echoAR-demo-Per-Capita-GDP-Comparison
+# Unity-ARFoundation-echoAR-demo-GDP-Comparison
 Simple GDP Per Capita Comparison demo with Unity, AR Foundation, and echoAR.
 
 ## Setup
